@@ -1,0 +1,72 @@
+@import 'modules/settings';
+@import 'modules/responsive';
+
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Halant'), local('Halant-Regular'), url(http://fonts.gstatic.com/s/halant/v1/lgvofn5OAEaLKGuTukbqD-vvDin1pK8aKteLpeZ5c0A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Halant Semibold'), local('Halant-Semibold'), url(http://fonts.gstatic.com/s/halant/v1/1Bn2ieBRu5B49v4PrWNaiSZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/lXoKq2PC8Z_S1wl-BwvrB-vvDin1pK8aKteLpeZ5c0A.ttf) format('truetype');
+}
+
+//Roboto, Lato and Source Sans for titles, more full-featured serif Merriweather
+
+html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li{
+	margin: 0;
+	padding: 0;
+}
+*, *::after, *::before{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Halant, Georgia, Times, 'Times New Roman', serif;
+	font-size: 62.5%;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	margin-bottom: .5em;
+}
+
+.article_body{
+	max-width: 750px;
+	margin: 0 auto;
+	padding: 0 2em;
+}
+	.article_body h1{
+		font-size: 2.1rem;
+		line-height: 1.1;
+		margin: 1.5em 0 1em;
+		
+		@include viewport(m, l){
+			font-size: 3.2rem
+		}
+	}
+	.article_body h2{
+		font-size: 1.8rem;
+		
+		@include viewport(m, l){
+			font-size: 2.4rem;
+		}
+	}
+	.article_body p{	
+		line-height: 1.5;
+		margin-bottom: 1em;
+		font-size: 1.2rem;
+		
+		@include viewport(m, l){
+			font-size: 1.4rem;
+		}
+	}

@@ -1,0 +1,2 @@
+<h1>Happy Place: A Pixar Cityscape</h1>
+<p>According to Pixar legend, each film goes through a pretty awful state. It was only fitting that my homage to Pixar would face similar struggles. For weeks I fought to bring this (admittedly ill-conceived) vision to life, but it didn't gel. It was desperately ugly. Finally, by stripping it down to its core and focusing on the architecture alone, something far better began to emerge: a cohesive piece that caters to discovery.</p>
