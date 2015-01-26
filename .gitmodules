@@ -1,0 +1,6 @@
+[submodule "ag_lib"]
+	path = ag_lib
+	url = https://github.com/gandrewb/ag_lib.git
+[submodule "src/ag_lib"]
+	path = src/ag_lib
+	url = https://github.com/gandrewb/ag_lib.git
