@@ -1,0 +1,74 @@
+/*
+$m-start: 550px;
+$l-start: 850px;
+
+$breakpoints: (
+	's': (0, $m-start - 1),
+	'm': ($m-start, $l-start - 1),
+	'l': ($l-start, 'inf')
+);
+*/
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Halant"), local("Halant-Regular"), url(http://fonts.gstatic.com/s/halant/v1/lgvofn5OAEaLKGuTukbqD-vvDin1pK8aKteLpeZ5c0A.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Halant Semibold"), local("Halant-Semibold"), url(http://fonts.gstatic.com/s/halant/v1/1Bn2ieBRu5B49v4PrWNaiSZ2oysoEQEeKwjgmXLRnTc.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Oswald Regular"), local("Oswald-Regular"), url(http://fonts.gstatic.com/s/oswald/v10/lXoKq2PC8Z_S1wl-BwvrB-vvDin1pK8aKteLpeZ5c0A.ttf) format("truetype"); }
+html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  margin: 0;
+  padding: 0; }
+
+*, *::after, *::before {
+  box-sizing: border-box; }
+
+body {
+  font-family: Halant, Georgia, Times, 'Times New Roman', serif;
+  font-size: 62.5%; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  margin-bottom: .5em; }
+
+.article_body {
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-size: 1.2rem; }
+  .article_body > * {
+    max-width: 750px;
+    margin: 0 auto; }
+  .article_body h1 {
+    font-size: 2.2em;
+    line-height: 1.1;
+    margin-top: 1.5em;
+    margin-bottom: 1em; }
+  .article_body h2 {
+    font-size: 1.5em; }
+  .article_body p {
+    line-height: 1.5;
+    margin-bottom: 1em;
+    font-size: 1em; }
+  .article_body .full_bleed {
+    width: 100%;
+    display: block;
+    margin: 0 auto; }
+  .article_body figure {
+    margin: 2em -2rem; }
+  @media screen and (min-width: 550px) {
+    .article_body {
+      padding: 0 4rem;
+      font-size: 1.5rem; }
+      .article_body figure {
+        margin: 2em -4rem; } }
+
+/*# sourceMappingURL=article_base.css.map */

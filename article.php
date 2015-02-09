@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="../styles/article_base.css" />
+	<link rel="stylesheet" href="../src/styles/article_base.css" />
 	<?php require $path.'head.inc'; ?>
 </head>
 <body>
