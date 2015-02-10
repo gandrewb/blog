@@ -42,12 +42,11 @@ h1, h2, h3, h4, h5, h6{
 
 .article_body{
 	width: 100%;
-	padding-left: 2rem;
-	padding-right: 2rem;
-	font-size: 1.2rem;
+	font-size: 2.4rem;
 	
-	& > * {
-		max-width: 750px;
+	.content_width {
+		max-width: 30em;
+		padding: 0 2em;
 		margin: 0 auto;
 	}
 
@@ -65,20 +64,20 @@ h1, h2, h3, h4, h5, h6{
 		margin-bottom: 1em;
 		font-size: 1em;
 	}
+	figure{
+		margin: 2.5em 0;
+	}
 	.full_bleed{
 		width: 100%;
 		display: block;
-		margin: 0 auto;
-	}
-	figure{
-		margin: 2em -2rem;		
+		margin-right: auto;
+		margin-left: auto;
 	}
 	
-	@include viewport(m, l){
-		padding: 0 4rem;
-		font-size: 1.5rem;
-		figure{
-			margin: 2em -4rem;		
-		}
+	@include viewport(m){
+		font-size: 2.1rem;
+	}
+	@include viewport(s){
+		font-size: 1.8rem;
 	}
 }

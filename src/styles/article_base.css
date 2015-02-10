@@ -30,7 +30,7 @@ html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
 *, *::after, *::before {
   box-sizing: border-box; }
 
-body {
+html {
   font-family: Halant, Georgia, Times, 'Times New Roman', serif;
   font-size: 62.5%; }
 
@@ -41,11 +41,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .article_body {
   width: 100%;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  font-size: 1.2rem; }
-  .article_body > * {
-    max-width: 750px;
+  font-size: 2.4rem; }
+  .article_body .content_width {
+    max-width: 30em;
+    padding: 0 2em;
     margin: 0 auto; }
   .article_body h1 {
     font-size: 2.2em;
@@ -58,17 +57,18 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.5;
     margin-bottom: 1em;
     font-size: 1em; }
+  .article_body figure {
+    margin: 2.5em 0; }
   .article_body .full_bleed {
     width: 100%;
     display: block;
-    margin: 0 auto; }
-  .article_body figure {
-    margin: 2em -2rem; }
-  @media screen and (min-width: 550px) {
+    margin-right: auto;
+    margin-left: auto; }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
     .article_body {
-      padding: 0 4rem;
-      font-size: 1.5rem; }
-      .article_body figure {
-        margin: 2em -4rem; } }
+      font-size: 2.1rem; } }
+  @media screen and (max-width: 549px) {
+    .article_body {
+      font-size: 1.8rem; } }
 
 /*# sourceMappingURL=article_base.css.map */
