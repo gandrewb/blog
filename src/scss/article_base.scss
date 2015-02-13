@@ -39,22 +39,49 @@ h1, h2, h3, h4, h5, h6{
 	font-weight: 400;
 	margin-bottom: .5em;
 }
+a{
+	text-decoration: none;
+	color: hsl(210, 80%, 55%);
+}
+a:hover{
+	color: hsl(210, 90%, 40%);
+	text-decoration: underline;
+}
+a:active{
+	color: hsl(210, 90%, 10%);
+}
+sup{
+	display: inline-block;
+	font-size: .75em;
+	line-height: 0;
+	margin-top: -.75em;
+}
 
 .article_body{
 	width: 100%;
 	font-size: 2.4rem;
+	padding-bottom: 3em;
 	
 	.content_width {
-		max-width: 30em;
+		max-width: 32em;
 		padding: 0 2em;
 		margin: 0 auto;
 	}
 
+	header{
+		padding: 3em 0 2em;
+	}
 	h1{
 		font-size: 2.2em;
-		line-height: 1.1;
-		margin-top: 1.5em;
-		margin-bottom: 1em;
+		line-height: 1.2;
+		margin-bottom: 0;
+	}
+	time{
+		display: inline-block;
+		text-transform: uppercase;
+		font-size: .75em;
+		margin-top: .5em;
+		//font-style: italic; 
 	}
 	h2{
 		font-size: 1.5em;

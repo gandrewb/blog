@@ -14,54 +14,54 @@ $breakpoints: (
     .happy_place_full {
       position: relative;
       width: 100%;
-      max-width: 1200px; }
+      max-width: 1400px; }
       .happy_place_full::before {
         display: block;
         content: '';
         width: 100%;
         padding-bottom: 33.27273%;
-        background-image: url("imgs/happy_place_s.png");
+        background-image: url("imgs/happy_place_s.jpg");
         background-size: contain;
         background-repeat: no-repeat; } }
     @media only screen and (max-width: 549px) and (-webkit-min-device-pixel-ratio: 2), only screen and (max-width: 549px) and (min--moz-device-pixel-ratio: 2), only screen and (max-width: 549px) and (-o-min-device-pixel-ratio: 2), only screen and (max-width: 549px) and (min-device-pixel-ratio: 2), only screen and (max-width: 549px) and (min-resolution: 190dpi), only screen and (max-width: 549px) and (min-resolution: 2dppx) {
       .happy_place_full::before {
-        background-image: url("imgs/happy_place_s_@2x.png"); } }
+        background-image: url("imgs/happy_place_s_@2x.jpg"); } }
 
-  @media screen and (min-width: 550px) and (max-width: 849px) {
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
     .happy_place_full {
       position: relative;
       width: 100%;
-      max-width: 1200px; }
+      max-width: 1400px; }
       .happy_place_full::before {
         display: block;
         content: '';
         width: 100%;
-        padding-bottom: 33.33333%;
-        background-image: url("imgs/happy_place_l.png");
+        padding-bottom: 33.30078%;
+        background-image: url("imgs/happy_place_m.jpg");
         background-size: contain;
         background-repeat: no-repeat; } }
-    @media only screen and (min-width: 550px) and (max-width: 849px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 849px) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 849px) and (-o-min-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 849px) and (min-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 849px) and (min-resolution: 190dpi), only screen and (min-width: 550px) and (max-width: 849px) and (min-resolution: 2dppx) {
+    @media only screen and (min-width: 550px) and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 1024px) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 1024px) and (-o-min-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 1024px) and (min-device-pixel-ratio: 2), only screen and (min-width: 550px) and (max-width: 1024px) and (min-resolution: 190dpi), only screen and (min-width: 550px) and (max-width: 1024px) and (min-resolution: 2dppx) {
       .happy_place_full::before {
-        background-image: url("imgs/happy_place_l_@2x.png"); } }
+        background-image: url("imgs/happy_place_m_@2x.jpg"); } }
 
-  @media screen and (min-width: 850px) {
+  @media screen and (min-width: 1025px) {
     .happy_place_full {
       position: relative;
       width: 100%;
-      max-width: 1200px; }
+      max-width: 1400px; }
       .happy_place_full::before {
         display: block;
         content: '';
         width: 100%;
-        padding-bottom: 33.33333%;
-        background-image: url("imgs/happy_place_l.png");
+        padding-bottom: 33.35714%;
+        background-image: url("imgs/happy_place_l.jpg");
         background-size: contain;
         background-repeat: no-repeat; } }
-    @media only screen and (min-width: 850px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 850px) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 850px) and (-o-min-device-pixel-ratio: 2), only screen and (min-width: 850px) and (min-device-pixel-ratio: 2), only screen and (min-width: 850px) and (min-resolution: 190dpi), only screen and (min-width: 850px) and (min-resolution: 2dppx) {
+    @media only screen and (min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2), only screen and (min-width: 1025px) and (min--moz-device-pixel-ratio: 2), only screen and (min-width: 1025px) and (-o-min-device-pixel-ratio: 2), only screen and (min-width: 1025px) and (min-device-pixel-ratio: 2), only screen and (min-width: 1025px) and (min-resolution: 190dpi), only screen and (min-width: 1025px) and (min-resolution: 2dppx) {
       .happy_place_full::before {
-        background-image: url("imgs/happy_place_l_@2x.png"); } }
+        background-image: url("imgs/happy_place_l_@2x.jpg"); } }
 
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1400px) {
     .happy_place_full {
       border-left-width: 0;
       border-right-width: 0; } }

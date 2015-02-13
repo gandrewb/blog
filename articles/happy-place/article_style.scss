@@ -3,15 +3,15 @@
 
 $article_images:(
 	happy_place_poster: (
-		l: (img:'imgs/happy_place_l.png', retina:'imgs/happy_place_l_@2x.png', w:900px, h:300px),
-		m: (img:'imgs/happy_place_l.png', retina:'imgs/happy_place_l_@2x.png', w:900px, h:300px),
-		s: (img:'imgs/happy_place_s.png', retina:'imgs/happy_place_s_@2x.png', w:550px, h:183px),
+		l: (img:'imgs/happy_place_l.jpg', retina:'imgs/happy_place_l_@2x.jpg', w:1400px, h:467px),
+		m: (img:'imgs/happy_place_m.jpg', retina:'imgs/happy_place_m_@2x.jpg', w:1024px, h:341px),
+		s: (img:'imgs/happy_place_s.jpg', retina:'imgs/happy_place_s_@2x.jpg', w:550px, h:183px),
 	)
 );
 $image_map: map-merge($image_map, $article_images);
 
 .happy_place_full{
-	$hp_max: 1200px;
+	$hp_max: 1400px;
 	border: solid 1px #ccc;
 	@include image(happy_place_poster, true, $hp_max);
 	@include side_border_chop($hp_max);
