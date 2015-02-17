@@ -57,6 +57,7 @@ sup{
 	margin-top: -.75em;
 }
 
+
 .article_body{
 	width: 100%;
 	font-size: 2.4rem;
@@ -68,20 +69,29 @@ sup{
 		margin: 0 auto;
 	}
 
+	.logo_header{
+		padding-top: 3em;
+		padding-bottom: 1.5em;
+		text-align: center;
+		
+		img{
+			width: 40px;
+		}
+	}
+
 	header{
-		padding: 3em 0 2em;
+		//padding: 3em 0 2em;
 	}
 	h1{
 		font-size: 2.2em;
 		line-height: 1.2;
-		margin-bottom: 0;
+		margin-bottom: .75em;
 	}
 	time{
-		display: inline-block;
+		display: block;
 		text-transform: uppercase;
 		font-size: .75em;
-		margin-top: .5em;
-		//font-style: italic; 
+		margin: 0 0 0 0; 
 	}
 	h2{
 		font-size: 1.5em;
@@ -106,5 +116,10 @@ sup{
 	}
 	@include viewport(s){
 		font-size: 1.8rem;
+		
+		.logo_header{
+			text-align: left;
+			padding-top: 2em;
+		}
 	}
 }

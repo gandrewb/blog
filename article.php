@@ -14,6 +14,7 @@
 	<header></header>
 	
 	<article class="article_body">
+		<div class="logo_header content_width"><img src="/imgs/logo_1.svg"></div>
 		<?php require $path.'article.inc'; ?>
 	</article>
 	
