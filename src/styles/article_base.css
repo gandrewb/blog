@@ -11,6 +11,11 @@ $breakpoints: (
 @font-face {
   font-family: 'Halant';
   font-style: normal;
+  font-weight: 300;
+  src: local("Halant Light"), local("Halant-Light"), url(http://fonts.gstatic.com/s/halant/v1/Xu5LrOMBL0Zr10_6KDVgICZ2oysoEQEeKwjgmXLRnTc.ttf) format("truetype"); }
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
   font-weight: 400;
   src: local("Halant"), local("Halant-Regular"), url(http://fonts.gstatic.com/s/halant/v1/lgvofn5OAEaLKGuTukbqD-vvDin1pK8aKteLpeZ5c0A.ttf) format("truetype"); }
 @font-face {
@@ -60,6 +65,8 @@ sup {
   width: 100%;
   font-size: 2.4rem;
   padding-bottom: 3em; }
+  .article_body h2, .article_body h3, .article_body h4, .article_body h5, .article_body h6 {
+    margin-top: 1.5em; }
   .article_body .content_width {
     max-width: 32em;
     padding: 0 2em;
@@ -87,6 +94,34 @@ sup {
     font-size: 1em; }
   .article_body figure {
     margin: 2.5em 0; }
+  .article_body blockquote {
+    position: relative;
+    font-size: 1.2em;
+    font-weight: 300;
+    padding: 0;
+    margin: 3em 0;
+    overflow: auto; }
+    .article_body blockquote:before, .article_body blockquote:after {
+      display: block;
+      content: '';
+      position: relative;
+      height: 1px;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      clear: both;
+      background: linear-gradient(90deg, #aaaaaa 0%, rgba(170, 170, 170, 0.4) 100%); }
+    .article_body blockquote:before {
+      margin-bottom: 2em; }
+    .article_body blockquote:after {
+      margin-top: 2em; }
+    .article_body blockquote cite {
+      display: block;
+      font-size: .75em;
+      font-style: normal;
+      font-weight: 400; }
+    .article_body blockquote p:last-of-type {
+      margin-bottom: .5em; }
   .article_body .full_bleed {
     width: 100%;
     display: block;

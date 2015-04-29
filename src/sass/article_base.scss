@@ -4,6 +4,12 @@
 @font-face {
   font-family: 'Halant';
   font-style: normal;
+  font-weight: 300;
+  src: local('Halant Light'), local('Halant-Light'), url(http://fonts.gstatic.com/s/halant/v1/Xu5LrOMBL0Zr10_6KDVgICZ2oysoEQEeKwjgmXLRnTc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
   font-weight: 400;
   src: local('Halant'), local('Halant-Regular'), url(http://fonts.gstatic.com/s/halant/v1/lgvofn5OAEaLKGuTukbqD-vvDin1pK8aKteLpeZ5c0A.ttf) format('truetype');
 }
@@ -63,6 +69,10 @@ sup{
 	font-size: 2.4rem;
 	padding-bottom: 3em;
 	
+	h2, h3, h4, h5, h6{
+		margin-top: 1.5em;
+	}
+	
 	.content_width {
 		max-width: 32em;
 		padding: 0 2em;
@@ -103,6 +113,44 @@ sup{
 	}
 	figure{
 		margin: 2.5em 0;
+	}
+	blockquote{
+		position: relative;
+		font-size: 1.2em;
+		font-weight: 300;
+		padding: 0;
+		margin: 3em 0;
+		overflow: auto;
+		
+		&:before,
+		&:after{
+			display: block;
+			content: '';
+			position: relative;
+			height: 1px;
+			width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+			clear: both;
+			background: linear-gradient(90deg, rgba(170,170,170,1) 0%, rgba(170,170,170,.4) 100%);
+		}
+		&:before{
+			margin-bottom: 2em;
+			
+		}
+		&:after{
+			margin-top: 2em;
+		}
+		
+		cite{
+			display: block;
+			font-size: .75em;
+			font-style: normal;
+			font-weight: 400;
+		}
+		p:last-of-type{
+			margin-bottom: .5em;
+		}
 	}
 	.full_bleed{
 		width: 100%;

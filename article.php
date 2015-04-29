@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+	<meta name="viewport" content="initial-scale=1.0">
 	<link rel="stylesheet" href="../src/styles/article_base.css" />
 	<?php require $path.'head.inc'; ?>
 </head>

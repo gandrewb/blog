@@ -1,0 +1,13 @@
+@import '../../src/scss/modules/settings';
+@import '../../src/ag_lib/scss/responsive';
+
+/*
+$article_images:(
+	happy_place_poster: (
+		l: (img:'imgs/happy_place_l.jpg', retina:'imgs/happy_place_l_@2x.jpg', w:1400px, h:467px),
+		m: (img:'imgs/happy_place_m.jpg', retina:'imgs/happy_place_m_@2x.jpg', w:1024px, h:341px),
+		s: (img:'imgs/happy_place_s.jpg', retina:'imgs/happy_place_s_@2x.jpg', w:550px, h:183px),
+	)
+);
+$image_map: map-merge($image_map, $article_images);
+*/
