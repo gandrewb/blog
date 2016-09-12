@@ -1,0 +1,394 @@
+/*
+$m-start: 550px;
+$l-start: 850px;
+
+$breakpoints: (
+	's': (0, $m-start - 1),
+	'm': ($m-start, $l-start - 1),
+	'l': ($l-start, 'inf')
+);
+*/
+.article_body .flat_char {
+  font-size: .7em;
+  margin: 0 0 0 -.2em; }
+.article_body .chicago_norshore {
+  float: left;
+  margin: .5em 1.25em 0 0; }
+  @media screen and (max-width: 549px) {
+    .article_body .chicago_norshore {
+      position: relative;
+      width: 135px; }
+      .article_body .chicago_norshore::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 177.77778%;
+        background-image: url("imgs/chicago_norshore.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
+    .article_body .chicago_norshore {
+      position: relative;
+      width: 191px; }
+      .article_body .chicago_norshore::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 177.48691%;
+        background-image: url("imgs/chicago_norshore.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 1025px) {
+    .article_body .chicago_norshore {
+      position: relative;
+      width: 220px; }
+      .article_body .chicago_norshore::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 177.72727%;
+        background-image: url("imgs/chicago_norshore.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+.article_body .sketch_1 {
+  margin-right: 2%;
+  margin-bottom: 2%; }
+  @media screen and (max-width: 549px) {
+    .article_body .sketch_1 {
+      position: relative;
+      width: 200px; }
+      .article_body .sketch_1::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_1_s.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
+    .article_body .sketch_1 {
+      position: relative;
+      width: 576px; }
+      .article_body .sketch_1::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_1_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 1025px) {
+    .article_body .sketch_1 {
+      position: relative;
+      width: 658px; }
+      .article_body .sketch_1::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 124.92401%;
+        background-image: url("imgs/sketch_1_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+.article_body .sketch_2 {
+  margin-bottom: 2%; }
+  @media screen and (max-width: 549px) {
+    .article_body .sketch_2 {
+      position: relative;
+      width: 200px; }
+      .article_body .sketch_2::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_2_s.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
+    .article_body .sketch_2 {
+      position: relative;
+      width: 576px; }
+      .article_body .sketch_2::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_2_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 1025px) {
+    .article_body .sketch_2 {
+      position: relative;
+      width: 658px; }
+      .article_body .sketch_2::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 124.92401%;
+        background-image: url("imgs/sketch_2_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+.article_body .sketch_3 {
+  margin-right: 2%;
+  margin-top: 0; }
+  @media screen and (max-width: 549px) {
+    .article_body .sketch_3 {
+      position: relative;
+      width: 200px; }
+      .article_body .sketch_3::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_3_s.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
+    .article_body .sketch_3 {
+      position: relative;
+      width: 576px; }
+      .article_body .sketch_3::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_3_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 1025px) {
+    .article_body .sketch_3 {
+      position: relative;
+      width: 658px; }
+      .article_body .sketch_3::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 124.92401%;
+        background-image: url("imgs/sketch_3_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+.article_body .sketch_4 {
+  margin-top: 0; }
+  @media screen and (max-width: 549px) {
+    .article_body .sketch_4 {
+      position: relative;
+      width: 200px; }
+      .article_body .sketch_4::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_4_s.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
+    .article_body .sketch_4 {
+      position: relative;
+      width: 576px; }
+      .article_body .sketch_4::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 125%;
+        background-image: url("imgs/sketch_4_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+  @media screen and (min-width: 1025px) {
+    .article_body .sketch_4 {
+      position: relative;
+      width: 658px; }
+      .article_body .sketch_4::before {
+        display: block;
+        content: '';
+        width: 100%;
+        padding-bottom: 124.92401%;
+        background-image: url("imgs/sketch_4_l.jpg");
+        background-size: contain;
+        background-repeat: no-repeat; } }
+.article_body .sketch_1,
+.article_body .sketch_2,
+.article_body .sketch_3,
+.article_body .sketch_4 {
+  float: left;
+  width: 49%; }
+@media screen and (max-width: 549px) {
+  .article_body .backyard_construction {
+    position: relative;
+    width: 100%; }
+    .article_body .backyard_construction::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/backyard_construction_s.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .backyard_construction {
+    position: relative;
+    width: 100%; }
+    .article_body .backyard_construction::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/backyard_construction_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .backyard_construction {
+    position: relative;
+    width: 100%; }
+    .article_body .backyard_construction::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/backyard_construction_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .woodwork {
+    position: relative;
+    width: 100%; }
+    .article_body .woodwork::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 75.05241%;
+      background-image: url("imgs/woodwork_s.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .woodwork {
+    position: relative;
+    width: 100%; }
+    .article_body .woodwork::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 75%;
+      background-image: url("imgs/woodwork_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .woodwork {
+    position: relative;
+    width: 100%; }
+    .article_body .woodwork::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 75%;
+      background-image: url("imgs/woodwork_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .neon_plan {
+    position: relative;
+    width: 100%; }
+    .article_body .neon_plan::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 87.0021%;
+      background-image: url("imgs/neon_plan_s.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .neon_plan {
+    position: relative;
+    width: 100%; }
+    .article_body .neon_plan::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 87.07483%;
+      background-image: url("imgs/neon_plan_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .neon_plan {
+    position: relative;
+    width: 100%; }
+    .article_body .neon_plan::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 87.05357%;
+      background-image: url("imgs/neon_plan_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .back_wires {
+    position: relative;
+    width: 100%; }
+    .article_body .back_wires::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 78.826%;
+      background-image: url("imgs/back_wires_s.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .back_wires {
+    position: relative;
+    width: 100%; }
+    .article_body .back_wires::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 78.7415%;
+      background-image: url("imgs/back_wires_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .back_wires {
+    position: relative;
+    width: 100%; }
+    .article_body .back_wires::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 78.72024%;
+      background-image: url("imgs/back_wires_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .final {
+    position: relative;
+    width: 100%; }
+    .article_body .final::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 74.31579%;
+      background-image: url("imgs/final_s.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .final {
+    position: relative;
+    width: 100%; }
+    .article_body .final::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 74.31973%;
+      background-image: url("imgs/final_m.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .final {
+    position: relative;
+    width: 100%; }
+    .article_body .final::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 74.25595%;
+      background-image: url("imgs/final_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+
+/*# sourceMappingURL=article_style.css.map */

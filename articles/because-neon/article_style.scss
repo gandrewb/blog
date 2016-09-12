@@ -1,0 +1,123 @@
+@import '../../src/scss/modules/settings';
+@import '../../src/ag_lib/scss/responsive';
+
+$article_images:(
+	chicago_norshore: (
+		l: (img:'imgs/chicago_norshore.jpg', w:220px, h:391px),
+		m: (img:'imgs/chicago_norshore.jpg', w:191px, h:339px),
+		s: (img:'imgs/chicago_norshore.jpg', w:135px, h:240px)
+	),
+	sketch_1: (
+		l: (img:'imgs/sketch_1_l.jpg', w:658px, h:822px),
+		m: (img:'imgs/sketch_1_l.jpg', w:576px, h:720px),
+		s: (img:'imgs/sketch_1_s.jpg', w:200px, h:250px)
+	),
+	sketch_2: (
+		l: (img:'imgs/sketch_2_l.jpg', w:658px, h:822px),
+		m: (img:'imgs/sketch_2_l.jpg', w:576px, h:720px),
+		s: (img:'imgs/sketch_2_s.jpg', w:200px, h:250px)
+	),
+	sketch_3: (
+		l: (img:'imgs/sketch_3_l.jpg', w:658px, h:822px),
+		m: (img:'imgs/sketch_3_l.jpg', w:576px, h:720px),
+		s: (img:'imgs/sketch_3_s.jpg', w:200px, h:250px)
+	),
+	sketch_4: (
+		l: (img:'imgs/sketch_4_l.jpg', w:658px, h:822px),
+		m: (img:'imgs/sketch_4_l.jpg', w:576px, h:720px),
+		s: (img:'imgs/sketch_4_s.jpg', w:200px, h:250px)
+	),
+	backyard_construction: (
+		l: (img:'imgs/backyard_construction_l.jpg', w:672px, h:672px),
+		m: (img:'imgs/backyard_construction_l.jpg', w:588px, h:588px),
+		s: (img:'imgs/backyard_construction_s.jpg', w:477px, h:477px)
+	),
+	woodwork: (
+		l: (img:'imgs/woodwork_l.jpg', w:672px, h:504px),
+		m: (img:'imgs/woodwork_l.jpg', w:588px, h:441px),
+		s: (img:'imgs/woodwork_s.jpg', w:477px, h:358px)
+	),
+	neon_plan: (
+		l: (img:'imgs/neon_plan_l.jpg', w:672px, h:585px),
+		m: (img:'imgs/neon_plan_l.jpg', w:588px, h:512px),
+		s: (img:'imgs/neon_plan_s.jpg', w:477px, h:415px)
+	),
+	back_wires: (
+		l: (img:'imgs/back_wires_l.jpg', w:672px, h:529px),
+		m: (img:'imgs/back_wires_l.jpg', w:588px, h:463px),
+		s: (img:'imgs/back_wires_s.jpg', w:477px, h:376px)
+	),
+	final: (
+		l: (img:'imgs/final_l.jpg', w:672px, h:499px),
+		m: (img:'imgs/final_m.jpg', w:588px, h:437px),
+		s: (img:'imgs/final_s.jpg', w:475px, h:353px)
+	)
+);
+$image_map: map-merge($image_map, $article_images);
+
+
+.article_body {
+	
+	.flat_char{
+		font-size: .7em;
+		margin: 0 0 0 -.2em;
+	}
+	
+	.chicago_norshore{
+		@include image(chicago_norshore);
+		float: left;
+		margin: .5em 1.25em 0 0;
+	}
+	
+	.sketch_1{
+		@include image(sketch_1);
+		margin-right: 2%;
+		margin-bottom: 2%;
+	}
+	
+	.sketch_2{
+		@include image(sketch_2);
+		margin-bottom: 2%;
+	}
+	
+	.sketch_3{
+		@include image(sketch_3);
+		margin-right: 2%;
+		margin-top: 0;
+	}
+	
+	.sketch_4{
+		@include image(sketch_4);
+		margin-top: 0;
+	}
+	
+	.sketch_1,
+	.sketch_2,
+	.sketch_3,
+	.sketch_4{
+		float: left;
+		width: 49%;
+	}
+	
+	.backyard_construction{
+		@include image(backyard_construction, true);
+	}
+	
+	.woodwork{
+		@include image(woodwork, true);
+	}
+	
+	.neon_plan{
+		@include image(neon_plan, true);
+	}
+	
+	.back_wires{
+		@include image(back_wires, true);
+	}
+	
+	.final{
+		@include image(final, true);
+	}
+	
+	
+}

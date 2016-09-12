@@ -1,5 +1,9 @@
 <?php
 	$path = 'articles/'.$_GET['title'].'/';
+	
+	function change_img_paths($article){
+		return preg_replace('/src="imgs\/(.+)"/', 'src="/articles/'.$_GET['title'].'/imgs/${1}"', $article);
+	}
 ?>
 
 <!DOCTYPE html>
@@ -15,8 +19,13 @@
 	<header></header>
 	
 	<article class="article_body">
-		<div class="logo_header content_width"><img src="/imgs/logo_1.svg"></div>
-		<?php require $path.'article.inc'; ?>
+		<div class="logo_header content_width">
+			<a href="/"><img src="/imgs/logo_1.svg"></a>
+		</div>
+		<?php 
+			require $path.'article.inc';
+			//echo change_img_paths( file_get_contents( $path.'article.inc' ));
+		?>
 	</article>
 	
 	<footer></footer>

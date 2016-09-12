@@ -105,6 +105,6 @@
 
 	<h2>A Concluding Parable:</h2>
 	
-	<p>I get a lot of joy from, and spend a lot of my time and money on of the beautification of my surroundings. Part of that involves gardening. I’ve had successes and failures lately. But I have one, giant bush of Dahlias in my front yard that has been producing huge, beautiful flowers in my favorite deep orange color for the last several weeks. Then last week, a unique Dahlia popped out of nowhere sporting a beautiful color gradient on its petals that transitioned from pink to orange to white. As much as I love those beautiful orange Dahlias, it was the flower that was different that I found most delightful and wanted to cherish and preserve.</p>
+	<p>I get a lot of joy from, and spend a lot of my time and money on the beautification of my surroundings. Part of that involves gardening. I’ve had successes and failures lately. But I have one, giant bush of Dahlias in my front yard that has been producing huge, beautiful flowers in my favorite deep orange color for the last several weeks. Then last week, a unique Dahlia popped out of nowhere sporting a beautiful color gradient on its petals that transitioned from pink to orange to white. As much as I love those beautiful orange Dahlias, it was the flower that was different that I found most delightful and wanted to cherish and preserve.</p>
 	
 </section>
