@@ -26,7 +26,7 @@
   src: local('Oswald Regular'), local('Oswald-Regular'), url(http://fonts.gstatic.com/s/oswald/v10/lXoKq2PC8Z_S1wl-BwvrB-vvDin1pK8aKteLpeZ5c0A.ttf) format('truetype');
 }
 
-//Roboto, Lato and Source Sans for titles, more full-featured serif Merriweather
+
 
 html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li{
 	margin: 0;
@@ -44,6 +44,11 @@ h1, h2, h3, h4, h5, h6{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
 	margin-bottom: .5em;
+}
+h1 span.subtitle {
+	display: block;
+	font-size: 60%;
+	margin-top: .15em; 
 }
 a{
 	text-decoration: none;
@@ -74,9 +79,7 @@ sup{
 	}
 	
 	.content_width {
-		max-width: 32em;
-		padding: 0 2em;
-		margin: 0 auto;
+		@include content_width;
 	}
 
 	.logo_header{
@@ -89,31 +92,48 @@ sup{
 		}
 	}
 
-	header{
-		//padding: 3em 0 2em;
-	}
 	h1{
 		font-size: 2.2em;
 		line-height: 1.2;
 		margin-bottom: .75em;
 	}
+	
+	h2{
+		font-size: 1.5em;
+	}
+	
 	time{
 		display: block;
 		text-transform: uppercase;
 		font-size: .75em;
 		margin: 0 0 0 0; 
 	}
-	h2{
-		font-size: 1.5em;
-	}
+	
 	p{	
 		line-height: 1.5;
 		margin-bottom: 1em;
 		font-size: 1em;
 	}
+	
 	figure{
 		margin: 2.5em 0;
 	}
+	
+	ul {
+		list-style-type: circle;
+		margin: 1.5em 0;
+	}
+	
+	li {
+		line-height: 1.2;
+		margin-bottom: .75em;
+	}
+	
+	ul,
+	ol {
+		margin-left: 1em;
+	}
+	
 	blockquote{
 		position: relative;
 		font-size: 1.2em;

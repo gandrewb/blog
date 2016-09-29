@@ -1,0 +1,454 @@
+/*
+$m-start: 550px;
+$l-start: 850px;
+
+$breakpoints: (
+	's': (0, $m-start - 1),
+	'm': ($m-start, $l-start - 1),
+	'l': ($l-start, 'inf')
+);
+*/
+@media screen and (max-width: 549px) {
+  .article_body .sketch_two {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_two::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 130.44444%;
+      background-image: url("imgs/sketch_2_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .sketch_two {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_two::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 130.44444%;
+      background-image: url("imgs/sketch_2_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .sketch_two {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_two::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 130.44444%;
+      background-image: url("imgs/sketch_2_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .sketch_three {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_three::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 73.33333%;
+      background-image: url("imgs/sketch_3_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .sketch_three {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_three::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 73.33333%;
+      background-image: url("imgs/sketch_3_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .sketch_three {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_three::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 73.33333%;
+      background-image: url("imgs/sketch_3_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .sketch_four {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_four::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 69%;
+      background-image: url("imgs/sketch_4_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .sketch_four {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_four::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 69%;
+      background-image: url("imgs/sketch_4_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .sketch_four {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_four::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 69%;
+      background-image: url("imgs/sketch_4_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .sketch_five {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_five::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 69%;
+      background-image: url("imgs/sketch_5_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .sketch_five {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_five::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 69%;
+      background-image: url("imgs/sketch_5_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .sketch_five {
+    position: relative;
+    width: 100%; }
+    .article_body .sketch_five::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 69%;
+      background-image: url("imgs/sketch_5_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .logo_iterations {
+    position: relative;
+    width: 100%; }
+    .article_body .logo_iterations::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 60.88889%;
+      background-image: url("imgs/logo_iterations_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .logo_iterations {
+    position: relative;
+    width: 100%; }
+    .article_body .logo_iterations::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 60.88889%;
+      background-image: url("imgs/logo_iterations_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .logo_iterations {
+    position: relative;
+    width: 100%; }
+    .article_body .logo_iterations::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 60.88889%;
+      background-image: url("imgs/logo_iterations_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .symmetry {
+    position: relative;
+    width: 100%; }
+    .article_body .symmetry::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 44%;
+      background-image: url("imgs/symmetry_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .symmetry {
+    position: relative;
+    width: 100%; }
+    .article_body .symmetry::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 44%;
+      background-image: url("imgs/symmetry_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .symmetry {
+    position: relative;
+    width: 100%; }
+    .article_body .symmetry::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 44%;
+      background-image: url("imgs/symmetry_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .ma_illustration {
+    position: relative;
+    width: 100%; }
+    .article_body .ma_illustration::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 49.66667%;
+      background-image: url("imgs/ma.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .ma_illustration {
+    position: relative;
+    width: 100%; }
+    .article_body .ma_illustration::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 49.66667%;
+      background-image: url("imgs/ma.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .ma_illustration {
+    position: relative;
+    width: 100%; }
+    .article_body .ma_illustration::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 49.66667%;
+      background-image: url("imgs/ma.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .red_mark {
+    position: relative;
+    width: 100%; }
+    .article_body .red_mark::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/red_mark_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .red_mark {
+    position: relative;
+    width: 100%; }
+    .article_body .red_mark::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/red_mark_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .red_mark {
+    position: relative;
+    width: 100%; }
+    .article_body .red_mark::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/red_mark_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .red_vert {
+    position: relative;
+    width: 100%; }
+    .article_body .red_vert::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/red_vert_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .red_vert {
+    position: relative;
+    width: 100%; }
+    .article_body .red_vert::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/red_vert_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .red_vert {
+    position: relative;
+    width: 100%; }
+    .article_body .red_vert::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 100%;
+      background-image: url("imgs/red_vert_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .red_horz {
+    position: relative;
+    width: 100%; }
+    .article_body .red_horz::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 44.44444%;
+      background-image: url("imgs/red_horz_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .red_horz {
+    position: relative;
+    width: 100%; }
+    .article_body .red_horz::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 44.44444%;
+      background-image: url("imgs/red_horz_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .red_horz {
+    position: relative;
+    width: 100%; }
+    .article_body .red_horz::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 44.44444%;
+      background-image: url("imgs/red_horz_l.png");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (max-width: 549px) {
+  .article_body .wireframes {
+    position: relative;
+    width: 100%; }
+    .article_body .wireframes::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 116.19217%;
+      background-image: url("imgs/wireframe_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 550px) and (max-width: 1024px) {
+  .article_body .wireframes {
+    position: relative;
+    width: 100%; }
+    .article_body .wireframes::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 116.19217%;
+      background-image: url("imgs/wireframe_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+@media screen and (min-width: 1025px) {
+  .article_body .wireframes {
+    position: relative;
+    width: 100%; }
+    .article_body .wireframes::before {
+      display: block;
+      content: '';
+      width: 100%;
+      padding-bottom: 116.19217%;
+      background-image: url("imgs/wireframe_l.jpg");
+      background-size: contain;
+      background-repeat: no-repeat; } }
+.article_body .content_imgs {
+  max-width: 32em;
+  padding: 0 2em;
+  margin: 0 auto; }
+  @media screen and (max-width: 549px) {
+    .article_body .content_imgs {
+      max-width: 100%;
+      padding: 0; } }
+.article_body .image_expansion {
+  width: 100%;
+  max-width: 1000px;
+  margin: 2.5em auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+.article_body .column {
+  width: 49%; }
+  @media screen and (max-width: 549px) {
+    .article_body .column {
+      width: 100%; } }
+.article_body .sketch {
+  width: 100%;
+  margin: 0 0 5%; }
+  .article_body .sketch:last-of-type {
+    margin-bottom: 0; }
+  @media screen and (max-width: 549px) {
+    .article_body .sketch.sketch_three {
+      margin-bottom: 5%; } }
+.article_body .ma_illustration {
+  width: 150px;
+  float: left;
+  margin: 0 1em 0 0; }
+.article_body .logo_square {
+  width: 22.5%;
+  margin: 0 0 2%; }
+  @media screen and (max-width: 549px) {
+    .article_body .logo_square {
+      width: 49%; } }
+.article_body .logo_long {
+  width: 50.5%;
+  margin: 0 0 2%; }
+  @media screen and (max-width: 549px) {
+    .article_body .logo_long {
+      width: 100%; } }
+.article_body .symmetry {
+  max-width: 550px; }
+
+/*# sourceMappingURL=article_style.css.map */

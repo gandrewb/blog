@@ -7,3 +7,12 @@ $breakpoints: (
 	'm': ($m-start, $l-start - 1),
 	'l': ($l-start, 'inf')
 );
+
+
+
+//SHARED MIXINS
+@mixin content_width(){
+	max-width: 32em;
+	padding: 0 2em;
+	margin: 0 auto;
+}

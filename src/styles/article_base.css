@@ -44,6 +44,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin-bottom: .5em; }
 
+h1 span.subtitle {
+  display: block;
+  font-size: 60%;
+  margin-top: .15em; }
+
 a {
   text-decoration: none;
   color: #308ce8; }
@@ -53,7 +58,7 @@ a:hover {
   text-decoration: underline; }
 
 a:active {
-  color: #031930; }
+  color: #031a30; }
 
 sup {
   display: inline-block;
@@ -81,19 +86,28 @@ sup {
     font-size: 2.2em;
     line-height: 1.2;
     margin-bottom: .75em; }
+  .article_body h2 {
+    font-size: 1.5em; }
   .article_body time {
     display: block;
     text-transform: uppercase;
     font-size: .75em;
     margin: 0 0 0 0; }
-  .article_body h2 {
-    font-size: 1.5em; }
   .article_body p {
     line-height: 1.5;
     margin-bottom: 1em;
     font-size: 1em; }
   .article_body figure {
     margin: 2.5em 0; }
+  .article_body ul {
+    list-style-type: circle;
+    margin: 1.5em 0; }
+  .article_body li {
+    line-height: 1.2;
+    margin-bottom: .75em; }
+  .article_body ul,
+  .article_body ol {
+    margin-left: 1em; }
   .article_body blockquote {
     position: relative;
     font-size: 1.2em;
