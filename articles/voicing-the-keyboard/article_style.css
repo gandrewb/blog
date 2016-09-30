@@ -433,9 +433,16 @@ $breakpoints: (
     .article_body .sketch.sketch_three {
       margin-bottom: 5%; } }
 .article_body .ma_illustration {
-  width: 150px;
+  width: 175px;
   float: left;
-  margin: 0 1em 0 0; }
+  margin: .5em 1em 0 0;
+  display: inline-block; }
+  @media screen and (min-width: 550px) and (max-width: 1024px) {
+    .article_body .ma_illustration {
+      width: 150px; } }
+  @media screen and (max-width: 549px) {
+    .article_body .ma_illustration {
+      width: 130px; } }
 .article_body .logo_square {
   width: 22.5%;
   margin: 0 0 2%; }

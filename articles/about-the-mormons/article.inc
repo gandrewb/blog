@@ -6,18 +6,18 @@
 	
 	<p>A couple weeks ago, my church invited the community to join us for a special service designed for people unfamiliar with Mormons. I was asked to speak at the event, and thought my remarks might be useful to other curious people.</p>
 		
-	<p>Maybe you’re thinking, <em>Mostly I just just want to know why my Mormon friend is so weird.</em> We know.</p>
+	<p>Maybe youʼre thinking, <em>Mostly I just just want to know why my Mormon friend is so weird.</em> We know.</p>
 
-	<p>We don’t drink. So to compensate, we eat unreasonable amounts of JELL-O. We reproduce like rabbits. And what kind of religion could give the world both a Mitt Romney and a Harry Reid? Nobody knows.</p>
+	<p>We donʼt drink. So to compensate, we eat unreasonable amounts of JELL-O. We reproduce like rabbits. And what kind of religion could give the world both a Mitt Romney and a Harry Reid? Nobody knows.</p>
 
 	<p>But I hope that when you talk to your Mormon friends, you find a certain degree of sincerity to their conviction. To get the conversation rolling a bit, I am going to answer a few common questions.</p>
 	
 
-	<h2>1. So you’re not Catholic and you’re not Protestant. Are you even Christian?</h2>
+	<h2>1. So youʼre not Catholic and youʼre not Protestant. Are you even Christian?</h2>
 	
-		<p>Well, the official name of the church is the Church of Jesus Christ of Latter-day Saints, so that’s your first clue. We often go by our colloquial nickname “Mormon” because of our belief in the Book of Mormon.</p>
+		<p>Well, the official name of the church is the Church of Jesus Christ of Latter-day Saints, so thatʼs your first clue. We often go by our colloquial nickname “Mormon” because of our belief in the Book of Mormon.</p>
 	
-		<p>I’d like to further answer this question simply by reading a few verses from the Book of Mormon:</p>
+		<p>Iʼd like to further answer this question simply by reading a few verses from the Book of Mormon:</p>
 		
 		<blockquote>
 			<p>And he shall be called Jesus Christ, the Son of God, the Father of heaven and earth, the Creator of all things from the beginning; and his mother shall be called Mary.</p>
@@ -28,24 +28,24 @@
 			<cite><a href="https://www.lds.org/scriptures/bofm/alma/7.11-13?lang=eng#10">Alma 7:11–13</a></cite>
 		</blockquote>
 
-		<p>So yes, we are Christian and believe deeply in Jesus’ role as our Savior. We also accept and study the Bible and its accounts of His ministry, crucifixion and resurrection.</p>
+		<p>So yes, we are Christian and believe deeply in Jesusʼ role as our Savior. We also accept and study the Bible and its accounts of His ministry, crucifixion and resurrection.</p>
 		
 
-	<h2>2. About the Book of Mormon.<br />That show was great! How’s the book?</h2>
+	<h2>2. About the Book of Mormon.<br />That show was great! Howʼs the book?</h2>
 	
 		<p>The Book of Mormon is not unlike the Bible in many ways. It contains teachings from Jesus Christ written by ancient prophets. It took place in periods that coincide with the Biblical era, but from the perspective of people that lived in the ancient Americas.</p>
 		
-		<p>There are a lot of very interesting stories in the Book of Mormon like wars, epic journeys, and family drama. But the most fascinating part of the Book of Mormon to me, is the account of Jesus Christ’s visit to these people in America. There is a passage in the Bible that records Jesus’ words to people in Jerusalem:</p> 
+		<p>There are a lot of very interesting stories in the Book of Mormon like wars, epic journeys, and family drama. But the most fascinating part of the Book of Mormon to me, is the account of Jesus Christʼs visit to these people in America. There is a passage in the Bible that records Jesusʼ words to people in Jerusalem:</p> 
 		
 		<blockquote>	
 			<p>Other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.</p>
 			<cite><a href="https://www.lds.org/scriptures/nt/john/10.16?lang=eng#15">John 10:16</a></cite>
 		</blockquote>
 		
-		<p>And that’s exactly what happened. He visited and taught the ancient Americans teachings that corroborate and solidify His Biblical teachings.</p>
+		<p>And thatʼs exactly what happened. He visited and taught the ancient Americans teachings that corroborate and solidify His Biblical teachings.</p>
 
 
-	<h2>3. Do Mormons believe I’m going to Hell?</h2>
+	<h2>3. Do Mormons believe Iʼm going to Hell?</h2>
 	
 		<p>Nope! Each person will be rewarded after this life due to the grace granted by Jesus Christ and according to his or her actions, desires and intentions. No one will be denied the opportunity to reach the highest reward.</p>
 		
@@ -54,20 +54,20 @@
 		<p>The greatest of these rewards and our ultimate goal consists of further progress and learning, the presence of God, involvement in the process of creation and best of all, being eternally bound to our earthly families. A process which is initiated in a temple.</p>
 		
 
-	<h2>4. What’s a temple?</h2>
+	<h2>4. Whatʼs a temple?</h2>
 	
-		<p>A common church building or meetinghouse is where the regular, weekly church services are held and other worship and social activities throughout the week. But temples are open every day of the week <em>except</em> Sundays! The only temple in the Bay Area is in <a href="http://mormontemples.org/eng/temple/oakland-california">Oakland</a>. It’s that big building that looks like a white castle on the hill. There are about 150 temples around the world.</p>
+		<p>A common church building or meetinghouse is where the regular, weekly church services are held and other worship and social activities throughout the week. But temples are open every day of the week <em>except</em> Sundays! The only temple in the Bay Area is in <a href="http://mormontemples.org/eng/temple/oakland-california">Oakland</a>. Itʼs that big building that looks like a white castle on the hill. There are about 150 temples around the world.</p>
 		
 		<p>A temple is where families can go to be sealed together for eternity — and not just till death do you part. You probably put a lot of effort into strengthening your family relationships. They are your deepest, most enduring bonds. That yearning is God given, and He wants something more for those relationships. In the temple, husband and wife, parent and child can be sealed together so those relationships endure beyond the grave.</p>
 
-	<h2>5. I heard something about this John Smith guy. Who’s he?</h2>
+	<h2>5. I heard something about this John Smith guy. Whoʼs he?</h2>
 	
-		<p>You must mean Joseph Smith. Yes! He was the founding member and leader of the church and he’s got a pretty incredible story. As a boy, he was stuck in the middle of the religious revival on the east coast in the early 1800’s and found himself thoroughly confused by the difference of opinion. He came across this scripture in the Bible:</p> 
+		<p>You must mean Joseph Smith. Yes! He was the founding member and leader of the church and heʼs got a pretty incredible story. As a boy, he was stuck in the middle of the religious revival on the east coast in the early 1800ʼs and found himself thoroughly confused by the difference of opinion. He came across this scripture in the Bible:</p> 
 		<blockquote>
 			<p>If any of you lack wisdom, let him ask of God,… and it shall be given him.</p>
 			<cite><a href="https://www.lds.org/scriptures/nt/james/1.5?lang=eng#4">James 1:5</a></cite>
 		</blockquote>
-		<p>As he was praying for guidance, God and Jesus Christ came to him, standing side by side and called on Joseph to restore the church and its teachings to the way it was in Christ’s time, and then gave him the authority to do so. It’s like a game of telephone had been played since Christ left, and some things were lost or misunderstood in the process. So he put an end to it and started over with Joseph Smith. It makes a lot of sense, really. Looking back in history, any time the people were ready to listen, he called a prophet to speak for him. That’s what He did with Joseph Smith, and that’s how He still operates today.</p>
+		<p>As he was praying for guidance, God and Jesus Christ came to him, standing side by side and called on Joseph to restore the church and its teachings to the way it was in Christʼs time, and then gave him the authority to do so. Itʼs like a game of telephone had been played since Christ left, and some things were lost or misunderstood in the process. So he put an end to it and started over with Joseph Smith. It makes a lot of sense, really. Looking back in history, any time the people were ready to listen, he called a prophet to speak for him. Thatʼs what He did with Joseph Smith, and thatʼs how He still operates today.</p>
 
 		<blockquote>
 			<p>And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;</p>
@@ -75,13 +75,13 @@
 			<cite><a href="https://www.lds.org/scriptures/nt/eph/4.11,14?lang=eng#10">Ephesians 4:11,14</a></cite>
 		</blockquote>
 
-		<p>God didn’t cease to take an interest in us after the Bible. He didn’t drop the Bible at our feet, dust off his hands and move on to another project. He is still very involved and continues to lead us through a prophet now.</p>
+		<p>God didnʼt cease to take an interest in us after the Bible. He didnʼt drop the Bible at our feet, dust off his hands and move on to another project. He is still very involved and continues to lead us through a prophet now.</p>
 
 	<h2>6. Are all Mormons 20?<br/>And do they all dress up and wear backpacks, name tags and bike helmets all the time?</h2>
 	
-		<p>LOL. Those are the missionaries. Many Mormons volunteer as missionaries, typically for 1½ to 2 years in their early twenties. During that time missionaries are authorized as official representatives of the Church. It’s an all-in commitment. Missionaries get sent far from home and spend every waking hour serving people in the community, supporting local congregations, and primarily, spreading the good word.</p>
+		<p>LOL. Those are the missionaries. Many Mormons volunteer as missionaries, typically for 1½ to 2 years in their early twenties. During that time missionaries are authorized as official representatives of the Church. Itʼs an all-in commitment. Missionaries get sent far from home and spend every waking hour serving people in the community, supporting local congregations, and primarily, spreading the good word.</p>
 		
-		<p>I served a mission in Holland and Belgium. It was a defining period of my life. Another missionary I knew liked to say missions are like God’s “Take Your Kid to Work Day” — and that’s what it feels like too. I caught a tiny glimpse of what His day to day work is really like. And I got to feel a small portion of the immense love that He has for all of His children.</p>
+		<p>I served a mission in Holland and Belgium. It was a defining period of my life. Another missionary I knew liked to say missions are like Godʼs “Take Your Kid to Work Day” — and thatʼs what it feels like too. I caught a tiny glimpse of what His day to day work is really like. And I got to feel a small portion of the immense love that He has for all of His children.</p>
 
 	<h2>7. Why faith at all?</h2>
 	
@@ -96,7 +96,7 @@
 
 		<p>The light of Christ is a power that resides within every human soul. Some more dimly, some more brightly. Love is the language that allows us to speak to that part of them.</p>
 
-		<p>It is here that I have learned, and continue to learn what it means to love God and love my neighbor as myself. I realize that Christianity does not have a monopoly on love. Many other religions and philosophies teach this too. Given the turmoil and evil we’ve seen recently, I can’t help but think how different the world would be if these words from the Savior were more carefully followed by Christians and non-Christians alike:</p>
+		<p>It is here that I have learned, and continue to learn what it means to love God and love my neighbor as myself. I realize that Christianity does not have a monopoly on love. Many other religions and philosophies teach this too. Given the turmoil and evil weʼve seen recently, I canʼt help but think how different the world would be if these words from the Savior were more carefully followed by Christians and non-Christians alike:</p>
 
 		<blockquote>
 			<p>But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;</p>
@@ -105,6 +105,6 @@
 
 	<h2>A Concluding Parable:</h2>
 	
-	<p>I get a lot of joy from, and spend a lot of my time and money on the beautification of my surroundings. Part of that involves gardening. I’ve had successes and failures lately. But I have one, giant bush of Dahlias in my front yard that has been producing huge, beautiful flowers in my favorite deep orange color for the last several weeks. Then last week, a unique Dahlia popped out of nowhere sporting a beautiful color gradient on its petals that transitioned from pink to orange to white. As much as I love those beautiful orange Dahlias, it was the flower that was different that I found most delightful and wanted to cherish and preserve.</p>
+	<p>I get a lot of joy from, and spend a lot of my time and money on the beautification of my surroundings. Part of that involves gardening. Iʼve had successes and failures lately. But I have one, giant bush of Dahlias in my front yard that has been producing huge, beautiful flowers in my favorite deep orange color for the last several weeks. Then last week, a unique Dahlia popped out of nowhere sporting a beautiful color gradient on its petals that transitioned from pink to orange to white. As much as I love those beautiful orange Dahlias, it was the flower that was different that I found most delightful and wanted to cherish and preserve.</p>
 	
 </section>
